@@ -4,7 +4,7 @@
 const resume = {
   firstName: 'Jose Maria',
   lastName: 'Mira Barrientos',
-  jobTitle: 'Front End Developer',
+  jobTitle: 'Software Developer',
   photo: 'null',
   city: 'Medellin',
   postalCode: '050022',
@@ -32,23 +32,24 @@ const resume = {
   skills: [
     'JavaScript',
     'TypeScript',
-    'NextJs',
     'React',
+    'NextJs',
+    'Angular',
+    'NodeJs',
+    'Docker',
+    'CSS',
+    'C#',
     'React Native',
     'Ionic',
-    'Angular',
     'Firebase',
-    'CSS',
     'Tailwind',
-    'Docker',
     'Unity',
     'Python',
-    'C#',
-    'PostgreSQL',
+    'Storybook',
     'MongoDB',
   ],
   languages: ['English', 'Spanish'],
-  professionalSummary: `Developer with a background in web, mobile and game development, having 3+ years of practice and leadership building interactive experiences.
+  professionalSummary: `Developer with a background in web, mobile and game development, having 4+ years of practice and leadership building interactive experiences.
     Disciplined, organized, humble and righteous person. Committed to good morals, continuous learning, innovation and development of optimal solutions.
     Great enthusiastic teamwork, considered helpful, creative, assertive and cautious.`,
   employmentHistory: [
@@ -56,7 +57,7 @@ const resume = {
       jobTitle: 'Front-End Developer',
       startDate: 'July 2020',
       endDate: 'Present',
-      employer: 'Talos Digital',
+      employer: 'Perficient',
       city: 'Remote',
       achievements: [
         `Created big web projects with brand new technologies at the
@@ -65,8 +66,8 @@ const resume = {
         made several on-boarding process to new developers.`,
         `Mentored team members in development, issues and technical
         progression.`,
-        `Optimized web pages to increase performance by a 100%, and SEO by a 70%, using coding best practices and good approaches to bottlenecks.`,
-        `Created custom video player, audio recognition softwares and data collectors platforms that worked as the core of new platforms.`,
+        `Optimized web pages to increase performance by a 100%, and SEO by a 70%, using coding best practices, and good approaches to bottlenecks using profilers and flamecharts.`,
+        `Created a custom video editor, video player, audio recognition softwares, and data collectors platforms that worked as the core of new platforms.`,
       ],
     },
     {
