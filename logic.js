@@ -26,30 +26,30 @@ const resume = {
     },
     {
       label: 'LinkedIn',
-      link: 'https://www.linkedin.com/in/jose-maria-mira-b-6699a5212',
+      link: 'https://linkedin.com/in/josemirab',
     },
   ],
   skills: [
-    'JavaScript',
-    'TypeScript',
     'React',
     'NextJs',
+    'JavaScript',
+    'TypeScript',
+    'Tailwind',
     'Angular',
     'NodeJs',
-    'Docker',
-    'CSS',
-    'C#',
     'React Native',
+    'CSS',
+    'Docker',
+    'C#',
     'Ionic',
     'Firebase',
-    'Tailwind',
     'Unity',
     'Python',
     'Storybook',
     'MongoDB',
   ],
   languages: ['English', 'Spanish'],
-  professionalSummary: `Developer with a background in web, mobile and game development, having 4+ years of practice and leadership building interactive experiences.
+  professionalSummary: `Front End developer with strong habilities in React and Angular, having 4+ years of experience with Javascript, and leadership building interactive experiences.
     Disciplined, organized, humble and righteous person. Committed to good morals, continuous learning, innovation and development of optimal solutions.
     Great enthusiastic teamwork, considered helpful, creative, assertive and cautious.`,
   employmentHistory: [
