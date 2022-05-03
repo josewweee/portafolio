@@ -50,8 +50,8 @@ const resume = {
   ],
   languages: ['English', 'Spanish'],
   professionalSummary: `Front End developer with strong habilities in React and Angular, having 4+ years of experience with Javascript, and leadership building interactive experiences.
-    Disciplined, organized, humble and righteous person. Committed to good morals, continuous learning, innovation and development of optimal solutions.
-    Great enthusiastic teamwork, considered helpful, creative, assertive and cautious.`,
+  Disciplined, organized, humble and righteous person. Committed to good morals, continuous learning, innovation and development of optimal solutions.
+  Great teamworker, considered enthusiastic, helpful, creative, assertive and cautious.`,
   employmentHistory: [
     {
       jobTitle: 'Front-End Developer',
@@ -72,8 +72,8 @@ const resume = {
     },
     {
       jobTitle: 'Software Developer and CEO',
-      startDate: 'january 2017',
-      endDate: 'December 2019',
+      startDate: 'January 2018',
+      endDate: 'February 2019',
       employer: 'Barbero express App',
       city: 'Medellín',
       achievements: [
